@@ -1,0 +1,50 @@
+body{
+  background-color: #fdefc5;
+
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+svg{
+  border-style: solid;
+  border-width: 1px;
+}
+
+.us {
+  stroke:red;
+}
+
+.us:hover {
+  stroke: green;
+  fill: green;
+}
+
+.canada {
+  stroke:blue;
+}
+
+.canada:hover {
+  stroke: green;
+  fill: green;
+}
+
+.mexico {
+  stroke: rgb(242, 0, 255);
+}
+
+.mexico:hover {
+  stroke: green;
+  fill: green;
+}
+
+.average {
+  stroke:black;
+}
+
+.average:hover {
+  stroke: gray;
+  fill: gray;
+}
